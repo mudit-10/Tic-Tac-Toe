@@ -13,7 +13,7 @@ Data Abstraction and Data Encapsulation.
    the game is won by a player. <br>
 4) The above to files are managed by the main file __TicTacToe.rb__ <br>
 
-## Features to be implemented in future ## <br>
+## Features to be implemented in future  <br>
 
 1) Scorekeeping in database <br>
 2) AI so as to have competitive play with the computer <br>
